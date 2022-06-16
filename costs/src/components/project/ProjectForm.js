@@ -39,7 +39,6 @@ function ProjectForm({handleSubmit,btnText, projectData}){
  })
 }
 
-
     return (
         <form onSubmit={submit} className={styles.form}>
            <Input 

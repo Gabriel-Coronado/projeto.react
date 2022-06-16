@@ -7,6 +7,7 @@ function NewProject(){
     const history = useHistory()
 
     function creatPost(project){
+        //initialize cost and services...
         project.cost = 0
         project.services =[]
 
