@@ -8,7 +8,7 @@
     border-radius: 5px;
 }
 
-.succes{
+.success{
 
     color: #155724;
     background-color: #d4edda;
@@ -18,5 +18,5 @@
 .error{
     color: #721c24;
     background-color: #f8d7da;
-    border-color: #f5c6cb;
+    border-color: #f5c6cb ;
 }
