@@ -38,8 +38,7 @@ function Projects(){
            </div>
             {message && <Message type="success" msg={message}/> }
             <Container customClass="start">
-               {projects.length > 0 && projects.map((project)=> (
-                <ProjectCard 
+               {projects.length > 0 && projects.map((project)=>(<ProjectCard 
                 id={project.id}
                 name={project.name}
                 budget={project.budget}
