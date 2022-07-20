@@ -1,50 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "teste",
-      "budget": "20.000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Gabriel",
-      "budget": "25",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "CloudCenter",
-      "budget": "50.000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "milena",
-      "budget": "999999999999",
-      "category": {
-        "id": "3",
-        "name": "Desing"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,

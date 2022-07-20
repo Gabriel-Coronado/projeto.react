@@ -22,5 +22,9 @@
 .item a:hover{
     color: #ffBB33;
 }
+.logo:hover {
+    width: 61px;
+    height: 61px;
+}
 
 

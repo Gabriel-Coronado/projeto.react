@@ -1,9 +1,18 @@
 .project_container{
     padding: 2em; 
+    width: 100%;
     }
  
 .title_container{
     display:flex;
-    justify-content:space-between;
+    justify-content:space-around;
     margin-bottom: 2em;
+}
+.mensagem_sem_cadastro{
+    background-color: #222;
+    color: aliceblue;
+    padding: 3px;
+    border-radius: 3px ;
+    font-size: 18px;
+    font-weight: bolder;
 }
